@@ -1,0 +1,69 @@
+{
+  "title": "Visual Momentum",
+  "story": [
+    {
+      "id": "771cfc00",
+      "type": "paragraph",
+      "text": "Visual momentum: a concept to improve the cognitive coupling of person and computer. David D Woods. 1984. [http://dx.doi.org/10.1016/S0020-7373(84)80043-7 doi] [https://www.researchgate.net/publication/222737388_Visual_Momentum_A_Concept_to_Improve_the_Cognitive_Coupling_of_Person_and_Computer researchgate]"
+    },
+    {
+      "type": "paragraph",
+      "id": "4fb87fb892f3ebf4",
+      "text": "Computer display system users must integrate data across successive displays. This problem of across-display processing is analogous to the question of how the visual system combines data across successive glances (fixations). Research from cognitive psychology on the latter question is used in order to formulate guidelines for the display designer. The result is a new principle of person-computer interaction, visual momentum, which captures knowledge about the mechanisms that support the identification of “relevant” data in human perception so that display system design can support an effective distribution of user attention. The negative consequences of low visual momentum on user performance are described, and display design techniques are presented to improve user across-display information extraction."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "date": 1643486360138,
+      "item": {
+        "title": "Visual Momentum",
+        "story": [
+          {
+            "id": "98234090910324",
+            "type": "future",
+            "text": "Click to create this page.",
+            "title": "Visual Momentum"
+          }
+        ]
+      }
+    },
+    {
+      "type": "create",
+      "item": {
+        "title": "Visual Momentum",
+        "story": []
+      },
+      "date": 1643486361921
+    },
+    {
+      "id": "771cfc00",
+      "type": "add",
+      "item": {
+        "id": "771cfc00",
+        "type": "paragraph",
+        "text": "Visual momentum: a concept to improve the cognitive coupling of person and computer. David D Woods. 1984. [http://dx.doi.org/10.1016/S0020-7373(84)80043-7 doi] [https://www.researchgate.net/publication/222737388_Visual_Momentum_A_Concept_to_Improve_the_Cognitive_Coupling_of_Person_and_Computer researchgate]"
+      },
+      "date": 1643486732015,
+      "error": {
+        "type": "error",
+        "msg": ""
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1643486791532
+    },
+    {
+      "type": "add",
+      "id": "4fb87fb892f3ebf4",
+      "item": {
+        "type": "paragraph",
+        "id": "4fb87fb892f3ebf4",
+        "text": "Computer display system users must integrate data across successive displays. This problem of across-display processing is analogous to the question of how the visual system combines data across successive glances (fixations). Research from cognitive psychology on the latter question is used in order to formulate guidelines for the display designer. The result is a new principle of person-computer interaction, visual momentum, which captures knowledge about the mechanisms that support the identification of “relevant” data in human perception so that display system design can support an effective distribution of user attention. The negative consequences of low visual momentum on user performance are described, and display design techniques are presented to improve user across-display information extraction."
+      },
+      "after": "771cfc00",
+      "date": 1643486974773
+    }
+  ]
+}

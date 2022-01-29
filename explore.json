@@ -1,0 +1,207 @@
+{
+  "title": "Explore",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2ee91a52b96ffef5",
+      "text": "Explore. Charter an exploration. Make note of surprises along the way."
+    },
+    {
+      "type": "paragraph",
+      "id": "c215e4a4dc50cc49",
+      "text": "Setting an intention to grow a garden of insight, and to cultivate paths through that garden as they emerge."
+    },
+    {
+      "type": "paragraph",
+      "id": "52a0f743846f8be9",
+      "text": "Wiki offers new affordances to the practice of a [[Commonplace Book]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "ac689635b14ad473",
+      "text": "We challenge our future selves to thoughts beyond our immediate needs else the new remains only a footnote to the old. See [[Incremental Pages]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "1dde992df454a426",
+      "text": "A complete thought is more important than a complete sentence. Write to be read in progress. Expect your work to be consumed and discarded before it is finished. See [[Incremental Paragraphs]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "87f67a2ec4ab3c2f",
+      "text": "We learned about charters for exploration from exploratory testing which compliments test automation. Especially interested in the structured exploration to guide learning. See [[Explore It!]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Explore",
+        "story": []
+      },
+      "date": 1643299790695
+    },
+    {
+      "id": "2ee91a52b96ffef5",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "2ee91a52b96ffef5",
+        "text": "Explore. Charter an exploration. Make note of surprises along the way."
+      },
+      "date": 1643299794546
+    },
+    {
+      "id": "c215e4a4dc50cc49",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "c215e4a4dc50cc49",
+        "text": "Setting an intention to grow a garden of insight, and to cultivate paths through that garden as they emerge."
+      },
+      "after": "2ee91a52b96ffef5",
+      "date": 1643299816292
+    },
+    {
+      "type": "add",
+      "id": "afb895f8febc42cb",
+      "item": {
+        "type": "paragraph",
+        "id": "afb895f8febc42cb",
+        "text": "[[Incremental Pages]]"
+      },
+      "after": "c215e4a4dc50cc49",
+      "date": 1643299845098
+    },
+    {
+      "id": "ac689635b14ad473",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "ac689635b14ad473",
+        "text": "A wiki buds new pages as the need for them emerges. At this point in creation we challenge our future selves to thoughts beyond our immediate needs else the new remains only a footnote to the old."
+      },
+      "after": "c215e4a4dc50cc49",
+      "date": 1643300080360
+    },
+    {
+      "type": "edit",
+      "id": "ac689635b14ad473",
+      "item": {
+        "type": "paragraph",
+        "id": "ac689635b14ad473",
+        "text": "We challenge our future selves to thoughts beyond our immediate needs else the new remains only a footnote to the old."
+      },
+      "date": 1643300097326
+    },
+    {
+      "type": "remove",
+      "id": "afb895f8febc42cb",
+      "date": 1643300102298
+    },
+    {
+      "type": "edit",
+      "id": "ac689635b14ad473",
+      "item": {
+        "type": "paragraph",
+        "id": "ac689635b14ad473",
+        "text": "We challenge our future selves to thoughts beyond our immediate needs else the new remains only a footnote to the old. See [[Incremental Pages]]."
+      },
+      "date": 1643300110355
+    },
+    {
+      "id": "1dde992df454a426",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "1dde992df454a426",
+        "text": "A complete thought is more important than a complete sentence. Write to be read in progress. Expect your work to be consumed and discarded before it is finished."
+      },
+      "after": "ac689635b14ad473",
+      "date": 1643300221814
+    },
+    {
+      "type": "edit",
+      "id": "1dde992df454a426",
+      "item": {
+        "type": "paragraph",
+        "id": "1dde992df454a426",
+        "text": "A complete thought is more important than a complete sentence. Write to be read in progress. Expect your work to be consumed and discarded before it is finished. See [[Incremental Paragraphs]]."
+      },
+      "date": 1643300239830
+    },
+    {
+      "type": "add",
+      "id": "af160ecac6472b8b",
+      "item": {
+        "type": "paragraph",
+        "id": "af160ecac6472b8b",
+        "text": "We learned about charters from exploratory testing."
+      },
+      "after": "2ee91a52b96ffef5",
+      "date": 1643300705740
+    },
+    {
+      "id": "87f67a2ec4ab3c2f",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "87f67a2ec4ab3c2f",
+        "text": "Exploratory testing compliments TDD and other test automation.  Especially interested in the structured exploration to guide learning.  [https://pragprog.com/book/ehxta/explore-it book]"
+      },
+      "after": "2ee91a52b96ffef5",
+      "date": 1643300712421
+    },
+    {
+      "type": "remove",
+      "id": "af160ecac6472b8b",
+      "date": 1643300716391
+    },
+    {
+      "type": "edit",
+      "id": "87f67a2ec4ab3c2f",
+      "item": {
+        "type": "paragraph",
+        "id": "87f67a2ec4ab3c2f",
+        "text": "We learned about charters for exploration from exploratory testing which compliments test automation. Especially interested in the structured exploration to guide learning. See [[Explore It!]]."
+      },
+      "date": 1643300795001
+    },
+    {
+      "id": "c215e4a4dc50cc49",
+      "type": "move",
+      "order": [
+        "2ee91a52b96ffef5",
+        "c215e4a4dc50cc49",
+        "87f67a2ec4ab3c2f",
+        "ac689635b14ad473",
+        "1dde992df454a426"
+      ],
+      "date": 1643300802512
+    },
+    {
+      "id": "52a0f743846f8be9",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "52a0f743846f8be9",
+        "text": "Wiki offers new affordances to the practice of a [[Commonplace Book]]."
+      },
+      "after": "c215e4a4dc50cc49",
+      "date": 1643301224807
+    },
+    {
+      "id": "87f67a2ec4ab3c2f",
+      "type": "move",
+      "order": [
+        "2ee91a52b96ffef5",
+        "c215e4a4dc50cc49",
+        "52a0f743846f8be9",
+        "ac689635b14ad473",
+        "1dde992df454a426",
+        "87f67a2ec4ab3c2f"
+      ],
+      "date": 1643301271825
+    }
+  ]
+}

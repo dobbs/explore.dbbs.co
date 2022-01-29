@@ -1,0 +1,71 @@
+{
+  "title": "Eric Dobbs",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "82e3b54903160714",
+      "text": "A tangle of ideas have continually resurfaced in my attention over the past couple decades. With this wiki, I seek to share my notes as I continue to explore the tangles."
+    },
+    {
+      "type": "paragraph",
+      "id": "f34a09f700a2edc8",
+      "text": "You can learn more about me in intros in my other wikis."
+    },
+    {
+      "type": "roster",
+      "id": "201389b8312da4a2",
+      "text": "ROSTER wiki.dbbs.co/eric-dobbs"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Eric Dobbs",
+        "story": []
+      },
+      "date": 1643300974082
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "82e3b54903160714"
+      },
+      "id": "82e3b54903160714",
+      "type": "add",
+      "date": 1643301009331
+    },
+    {
+      "type": "edit",
+      "id": "82e3b54903160714",
+      "item": {
+        "type": "paragraph",
+        "id": "82e3b54903160714",
+        "text": "A tangle of ideas have continually resurfaced in my attention over the past couple decades. With this wiki, I seek to share my notes as I continue to explore the tangles."
+      },
+      "date": 1643301138914
+    },
+    {
+      "type": "add",
+      "id": "f34a09f700a2edc8",
+      "item": {
+        "type": "paragraph",
+        "id": "f34a09f700a2edc8",
+        "text": "You can learn more about me in intros in my other wikis."
+      },
+      "after": "82e3b54903160714",
+      "date": 1643301179128
+    },
+    {
+      "id": "201389b8312da4a2",
+      "type": "add",
+      "item": {
+        "type": "roster",
+        "id": "201389b8312da4a2",
+        "text": "ROSTER wiki.dbbs.co/eric-dobbs"
+      },
+      "after": "f34a09f700a2edc8",
+      "date": 1643301205891
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "title": "Too Many Displays",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b79c975909149f8f",
+      "text": "Our charter is to explore Chapter 26 of the Handbook of Human-Computer Interaction, 2nd Edition: How Not to have to Navigate Through Too Many Displays. We will bring our wealth of experience with software and hypermedia to compare with the experience and research of thoughtful authors. We hope to discover insight that informs our application of hypermedia here in wiki."
+    },
+    {
+      "id": "27b30000",
+      "type": "paragraph",
+      "text": "How Not to Have to Navigate Through Too Many Displays.\nDavid D. Woods and Jennifer C. Watts.\nThe Ohio State University.\nColumbus, Ohio, USA. [https://doi.org/10.1016/B978-044481862-1.50092-3 doi]"
+    },
+    {
+      "id": "5350000",
+      "type": "paragraph",
+      "text": "See abstract (or full chapter with sufficient credentials) via ScienceDirect  [https://www.sciencedirect.com/science/article/pii/B9780444818621500923 abstract]"
+    },
+    {
+      "id": "468d1000",
+      "type": "markdown",
+      "text": "> The chapter reviews common findings from field studies that have shown how large networks of displays, available through a limited keyhole, can place new mental burdens on users. It also provide an overview of some of the techniques that designers can use to break down the keyhole and help users focus on the relevant portion of the data field as activities unfold."
+    },
+    {
+      "type": "paragraph",
+      "id": "3b92de922807d7c0",
+      "text": "Our friends in the learning from incidents in software community suggest a shorter article as another place to get started with this material. See [[Visual Momentum]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "9174314f33e751f4",
+      "text": "We noticed a reference to a specific bit of research we have actually read ([https://www.interruptions.net/literature/McDonald-ApplErgon96.pdf pdf]):"
+    },
+    {
+      "id": "2cdb8000",
+      "type": "markdown",
+      "text": "> Example 3: A Hypertext Document\n> \n> Students were asked to learn about a topic related to their (psychology) class by studying a hypertext document of 45 cards (McDonald and Stevenson, 1996). The hypertext document was organized either in a fixed linear sequence or in a non-linear structure where related cards were cross-referenced. No cues to structure or navigation aids were included except the variable of organization type--hierarchical or nonlinear. In the absence of any cues to structure (the non-linear condition) in this small but unfamiliar body of material, participants searched less, answered questions about the material more slowly and less accurately, and felt more disoriented."
+    },
+    {
+      "type": "paragraph",
+      "id": "8a73904000e75f60",
+      "text": "We reject the design of that study for measuring hypermedia with content designed for print. See [[Disorientation in Hypertext]]."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "date": 1643480859504,
+      "item": {
+        "title": "Too Many Displays",
+        "story": [
+          {
+            "id": "98234090910324",
+            "type": "future",
+            "text": "Click to create this page.",
+            "title": "Too Many Displays"
+          }
+        ]
+      }
+    },
+    {
+      "type": "create",
+      "item": {
+        "title": "Too Many Displays",
+        "story": []
+      },
+      "date": 1643480861172
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b79c975909149f8f"
+      },
+      "id": "b79c975909149f8f",
+      "type": "add",
+      "date": 1643481854649
+    },
+    {
+      "id": "27b30000",
+      "type": "add",
+      "item": {
+        "id": "27b30000",
+        "type": "paragraph",
+        "text": "How Not to Have to Navigate Through Too Many Displays.\nDavid D. Woods and Jennifer C. Watts.\nThe Ohio State University.\nColumbus, Ohio, USA. [https://doi.org/10.1016/B978-044481862-1.50092-3 doi]"
+      },
+      "after": "b79c975909149f8f",
+      "date": 1643481982562,
+      "error": {
+        "type": "error",
+        "msg": ""
+      }
+    },
+    {
+      "id": "5350000",
+      "type": "add",
+      "item": {
+        "id": "5350000",
+        "type": "paragraph",
+        "text": "See abstract (or full chapter with sufficient credentials) via ScienceDirect  [https://www.sciencedirect.com/science/article/pii/B9780444818621500923 abstract]"
+      },
+      "after": "27b30000",
+      "date": 1643481986446,
+      "error": {
+        "type": "error",
+        "msg": ""
+      }
+    },
+    {
+      "id": "468d1000",
+      "type": "add",
+      "item": {
+        "id": "468d1000",
+        "type": "markdown",
+        "text": "> The chapter reviews common findings from field studies that have shown how large networks of displays, available through a limited keyhole, can place new mental burdens on users. It also provide an overview of some of the techniques that designers can use to break down the keyhole and help users focus on the relevant portion of the data field as activities unfold."
+      },
+      "after": "5350000",
+      "date": 1643481993602,
+      "error": {
+        "type": "error",
+        "msg": ""
+      }
+    },
+    {
+      "id": "2cdb8000",
+      "type": "add",
+      "item": {
+        "id": "2cdb8000",
+        "type": "paragraph",
+        "text": "Example 3: A Hypertext Document\nStudents were asked to learn about a topic related to\ntheir (psychology) class by studying a hypertext docu-\nment of 45 cards (McDonald and Stevenson, 1996).\nThe hypertext document was organized either in a\nfixed linear sequence or in a non-linear structure where\nrelated cards were cross-referenced. No cues to struc-\nture or navigation aids were included except the vari-\nable of organization type--hierarchical or nonlinear. In\nthe absence of any cues to structure (the non-linear\ncondition) in this small but unfamiliar body of mate-\nrial, participants searched less, answered questions\nabout the material more slowly and less accurately, and\nfelt more disoriented."
+      },
+      "after": "468d1000",
+      "date": 1643482007763,
+      "error": {
+        "type": "error",
+        "msg": ""
+      }
+    },
+    {
+      "type": "add",
+      "id": "9174314f33e751f4",
+      "item": {
+        "type": "paragraph",
+        "id": "9174314f33e751f4",
+        "text": "We noticed a reference to a specific bit of research we have actually read:"
+      },
+      "after": "468d1000",
+      "date": 1643482632349
+    },
+    {
+      "type": "edit",
+      "id": "2cdb8000",
+      "item": {
+        "id": "2cdb8000",
+        "type": "markdown",
+        "text": "> Example 3: A Hypertext Document\n> \n> Students were asked to learn about a topic related to their (psychology) class by studying a hypertext document of 45 cards (McDonald and Stevenson, 1996). The hypertext document was organized either in a\nfixed linear sequence or in a non-linear structure where related cards were cross-referenced. No cues to structure or navigation aids were included except the variable of organization type--hierarchical or nonlinear. In the absence of any cues to structure (the non-linear condition) in this small but unfamiliar body of material, participants searched less, answered questions about the material more slowly and less accurately, and felt more disoriented."
+      },
+      "date": 1643482670453
+    },
+    {
+      "type": "edit",
+      "id": "2cdb8000",
+      "item": {
+        "id": "2cdb8000",
+        "type": "markdown",
+        "text": "> Example 3: A Hypertext Document\n> \n> Students were asked to learn about a topic related to their (psychology) class by studying a hypertext document of 45 cards (McDonald and Stevenson, 1996). The hypertext document was organized either in a\nfixed linear sequence or in a non-linear structure where related cards were cross-referenced. No cues to structure or navigation aids were included except the variable of organization type--hierarchical or nonlinear. In the absence of any cues to structure (the non-linear condition) in this small but unfamiliar body of material, participants searched less, answered questions about the material more slowly and less accurately, and felt more disoriented."
+      },
+      "date": 1643482683053
+    },
+    {
+      "type": "edit",
+      "id": "2cdb8000",
+      "item": {
+        "id": "2cdb8000",
+        "type": "markdown",
+        "text": "> Example 3: A Hypertext Document\n> \n> Students were asked to learn about a topic related to their (psychology) class by studying a hypertext document of 45 cards (McDonald and Stevenson, 1996). The hypertext document was organized either in a\nfixed linear sequence or in a non-linear structure where related cards were cross-referenced. No cues to structure or navigation aids were included except the variable of organization type--hierarchical or nonlinear. In the absence of any cues to structure (the non-linear condition) in this small but unfamiliar body of material, participants searched less, answered questions about the material more slowly and less accurately, and felt more disoriented."
+      },
+      "date": 1643482705638
+    },
+    {
+      "type": "edit",
+      "id": "b79c975909149f8f",
+      "item": {
+        "type": "paragraph",
+        "id": "b79c975909149f8f",
+        "text": "Our charter is to explore Chapter 26 of the Handbook of Human-Computer Interaction, 2nd Edition: How Not to have to Navigate Through Too Many Displays. We will bring our wealth of experience with software and hypermedia to compare with the experience and research of thoughtful authors. We hope to discover insight that informs our application of hypermedia here in wiki."
+      },
+      "date": 1643483079751
+    },
+    {
+      "type": "edit",
+      "id": "2cdb8000",
+      "item": {
+        "id": "2cdb8000",
+        "type": "markdown",
+        "text": "> Example 3: A Hypertext Document\n> \n> Students were asked to learn about a topic related to their (psychology) class by studying a hypertext document of 45 cards (McDonald and Stevenson, 1996). The hypertext document was organized either in a\nfixed linear sequence or in a non-linear structure where related cards were cross-referenced. No cues to structure or navigation aids were included except the variable of organization type--hierarchical or nonlinear. In the absence of any cues to structure (the non-linear condition) in this small but unfamiliar body of material, participants searched less, answered questions about the material more slowly and less accurately, and felt more disoriented."
+      },
+      "date": 1643483137688
+    },
+    {
+      "type": "fork",
+      "date": 1643483151251
+    },
+    {
+      "type": "edit",
+      "id": "2cdb8000",
+      "item": {
+        "id": "2cdb8000",
+        "type": "markdown",
+        "text": "> Example 3: A Hypertext Document\n> \n> Students were asked to learn about a topic related to their (psychology) class by studying a hypertext document of 45 cards (McDonald and Stevenson, 1996). The hypertext document was organized either in a fixed linear sequence or in a non-linear structure where related cards were cross-referenced. No cues to structure or navigation aids were included except the variable of organization type--hierarchical or nonlinear. In the absence of any cues to structure (the non-linear condition) in this small but unfamiliar body of material, participants searched less, answered questions about the material more slowly and less accurately, and felt more disoriented."
+      },
+      "date": 1643483195683
+    },
+    {
+      "type": "edit",
+      "id": "9174314f33e751f4",
+      "item": {
+        "type": "paragraph",
+        "id": "9174314f33e751f4",
+        "text": "We noticed a reference to a specific bit of research we have actually read ([https://www.interruptions.net/literature/McDonald-ApplErgon96.pdf pdf]):"
+      },
+      "date": 1643483737311
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8a73904000e75f60"
+      },
+      "id": "8a73904000e75f60",
+      "type": "add",
+      "after": "2cdb8000",
+      "date": 1643485544475
+    },
+    {
+      "type": "edit",
+      "id": "8a73904000e75f60",
+      "item": {
+        "type": "paragraph",
+        "id": "8a73904000e75f60",
+        "text": "We reject the design of that study for measuring hypermedia with content designed for print. See [[Disorientation in Hypertext]]."
+      },
+      "date": 1643485679898
+    },
+    {
+      "type": "add",
+      "id": "3b92de922807d7c0",
+      "item": {
+        "type": "paragraph",
+        "id": "3b92de922807d7c0",
+        "text": "Our friends in the learning from incidents in software community suggest a shorter article as another place to get started with this material. See [[Visual Momentum]]."
+      },
+      "after": "468d1000",
+      "date": 1643486909907
+    }
+  ]
+}

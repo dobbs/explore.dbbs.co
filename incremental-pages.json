@@ -1,0 +1,886 @@
+{
+  "title": "Incremental Pages",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "ac689635b14ad473",
+      "text": "A wiki buds new pages as the need for them emerges. At this point in creation we challenge our future selves to thoughts beyond our immediate needs else the new remains only a footnote to the old."
+    },
+    {
+      "type": "html",
+      "id": "a5c3959fcfbee892",
+      "text": "<h3> Need"
+    },
+    {
+      "type": "paragraph",
+      "id": "cc39e0a9dca26446",
+      "text": "We feel the need for a new page as we write [[Incremental Paragraphs]]."
+    },
+    {
+      "type": "paragraph",
+      "id": "6462233f4dfe8b39",
+      "text": "We stoke page need by arranging thoughts such that they might jump-ship together when the new page appears."
+    },
+    {
+      "type": "paragraph",
+      "id": "2917e6bed260ab2f",
+      "text": "We try new page titles in context. We choose title words that explain to ourselves and our future readers why a context shift is justified."
+    },
+    {
+      "type": "paragraph",
+      "id": "39ed18b83240bbcb",
+      "text": "We live with a dangling reference for minutes or months. We develop a wonder of what that page will become."
+    },
+    {
+      "type": "paragraph",
+      "id": "2132090feddff91c",
+      "text": "We click the new page into existence once we can confidently write more than our readers already assume from title alone."
+    },
+    {
+      "type": "html",
+      "id": "0c08b435123e2a1f",
+      "text": "<h3> Charter"
+    },
+    {
+      "type": "paragraph",
+      "id": "8c372d4e450f5f3a",
+      "text": "A blank page is a new beginning."
+    },
+    {
+      "type": "paragraph",
+      "id": "d796dc6d0631b971",
+      "text": "We write the first paragraph, the charter for the page. "
+    },
+    {
+      "type": "paragraph",
+      "id": "e5403b9b91f0d391",
+      "text": "We charter a page by repeating the title in more words, different words, words that remove ambiguity in the title while preserving, enlarging, its promise."
+    },
+    {
+      "type": "paragraph",
+      "id": "d36a83d18752a33c",
+      "text": "We save for immediately subsequent paragraphs the facts and links that will support the charter, our purpose for making new."
+    },
+    {
+      "type": "paragraph",
+      "id": "d612f9699e7eff91",
+      "text": "We can rest now, or go on incrementing paragraphs. We will sharpen these first words later as the page develops."
+    },
+    {
+      "type": "paragraph",
+      "id": "542825421e02858c",
+      "text": "more about keywords"
+    },
+    {
+      "type": "paragraph",
+      "id": "fc123669593eecd1",
+      "text": "more about search results"
+    },
+    {
+      "type": "html",
+      "id": "f33ce13d520f618d",
+      "text": "<h3> Mechanism"
+    },
+    {
+      "type": "paragraph",
+      "id": "07cf0eca1c31301d",
+      "text": "more about plugins"
+    },
+    {
+      "type": "paragraph",
+      "id": "8259678504742157",
+      "text": "more about data"
+    },
+    {
+      "type": "paragraph",
+      "id": "e667bdeaf2c5084a",
+      "text": "more about bindings"
+    },
+    {
+      "type": "html",
+      "id": "52815cb3ea98406b",
+      "text": "<h3> Flow"
+    },
+    {
+      "type": "paragraph",
+      "id": "66c99f9be901d235",
+      "text": "We seek small pieces loosely joined."
+    },
+    {
+      "type": "paragraph",
+      "id": "1fe49a55ae306f9d",
+      "text": "A tree forms as we bud new pages from old."
+    },
+    {
+      "type": "paragraph",
+      "id": "10461d8b9875e3a5",
+      "text": "A web forms as we reuse pages through links."
+    },
+    {
+      "type": "paragraph",
+      "id": "54f0030a3bc9f41f",
+      "text": "A collaboration forms as our pages fork."
+    },
+    {
+      "type": "paragraph",
+      "id": "1b9f7a532d0b04cf",
+      "text": "A neighborhood forms as others embrace our charters."
+    },
+    {
+      "type": "paragraph",
+      "id": "50b875bedb638fab",
+      "text": "An industry forms as our pages produce lasting value."
+    },
+    {
+      "type": "paragraph",
+      "id": "43bdf191d9ff385f",
+      "text": "The page becomes the unit of work. We work to understand and appreciate what it offers. It works to make its offering relevant to us."
+    },
+    {
+      "type": "paragraph",
+      "id": "7042e93f216c9688",
+      "text": "The page is the computer, fast and capable, working within the context we create, serving our needs of the moment and co-evolving with us into the future. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Incremental Pages"
+      },
+      "date": 1357311926922
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ac689635b14ad473"
+      },
+      "id": "ac689635b14ad473",
+      "type": "add",
+      "date": 1357311981630
+    },
+    {
+      "type": "edit",
+      "id": "ac689635b14ad473",
+      "item": {
+        "type": "paragraph",
+        "id": "ac689635b14ad473",
+        "text": "A wiki buds new pages as the need for them emerges. At this point of creation we challenge our future selves to thoughts beyond our immediate needs else the new remains only a footnote to the old."
+      },
+      "date": 1357312561038
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cc39e0a9dca26446"
+      },
+      "id": "cc39e0a9dca26446",
+      "type": "add",
+      "after": "ac689635b14ad473",
+      "date": 1357312692572
+    },
+    {
+      "type": "edit",
+      "id": "cc39e0a9dca26446",
+      "item": {
+        "type": "paragraph",
+        "id": "cc39e0a9dca26446",
+        "text": "We feel the need for a new page as we write [[Incremental Paragraphs]]."
+      },
+      "date": 1357313017810
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6462233f4dfe8b39",
+        "text": ""
+      },
+      "id": "6462233f4dfe8b39",
+      "type": "add",
+      "after": "cc39e0a9dca26446",
+      "date": 1357313018316
+    },
+    {
+      "type": "edit",
+      "id": "6462233f4dfe8b39",
+      "item": {
+        "type": "paragraph",
+        "id": "6462233f4dfe8b39",
+        "text": "We stoke that need by arranging thoughts such that they might jump-ship together when the new page appears."
+      },
+      "date": 1357313117146
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3ac4026efc28ed96",
+        "text": ""
+      },
+      "id": "3ac4026efc28ed96",
+      "type": "add",
+      "after": "6462233f4dfe8b39",
+      "date": 1357313117652
+    },
+    {
+      "type": "remove",
+      "id": "3ac4026efc28ed96",
+      "date": 1357313150540
+    },
+    {
+      "type": "edit",
+      "id": "6462233f4dfe8b39",
+      "item": {
+        "type": "paragraph",
+        "id": "6462233f4dfe8b39",
+        "text": "We stoke page need by arranging thoughts such that they might jump-ship together when the new page appears."
+      },
+      "date": 1357313180500
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2917e6bed260ab2f",
+        "text": ""
+      },
+      "id": "2917e6bed260ab2f",
+      "type": "add",
+      "after": "6462233f4dfe8b39",
+      "date": 1357313181008
+    },
+    {
+      "type": "edit",
+      "id": "2917e6bed260ab2f",
+      "item": {
+        "type": "paragraph",
+        "id": "2917e6bed260ab2f",
+        "text": "We try new page titles in context. We choose title words that explain to ourselves and our future readers why a context shift is justified."
+      },
+      "date": 1357313666663
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "39ed18b83240bbcb",
+        "text": ""
+      },
+      "id": "39ed18b83240bbcb",
+      "type": "add",
+      "after": "2917e6bed260ab2f",
+      "date": 1357313667171
+    },
+    {
+      "type": "edit",
+      "id": "39ed18b83240bbcb",
+      "item": {
+        "type": "paragraph",
+        "id": "39ed18b83240bbcb",
+        "text": "We live with a dangling reference for minutes or months. "
+      },
+      "date": 1357314039843
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2132090feddff91c",
+        "text": "We click the new page into existence once when we know that we are ready to write more than our readers can assume from title alone."
+      },
+      "id": "2132090feddff91c",
+      "type": "add",
+      "after": "39ed18b83240bbcb",
+      "date": 1357314040350
+    },
+    {
+      "type": "edit",
+      "id": "39ed18b83240bbcb",
+      "item": {
+        "type": "paragraph",
+        "id": "39ed18b83240bbcb",
+        "text": "We live with a dangling reference for minutes or months. We develop a wonder of what that page will become."
+      },
+      "date": 1357314081232
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "394dbfa6b09246e9",
+        "text": ""
+      },
+      "id": "394dbfa6b09246e9",
+      "type": "add",
+      "after": "2132090feddff91c",
+      "date": 1357314376564
+    },
+    {
+      "type": "remove",
+      "id": "394dbfa6b09246e9",
+      "date": 1357314417122
+    },
+    {
+      "type": "edit",
+      "id": "2132090feddff91c",
+      "item": {
+        "type": "paragraph",
+        "id": "2132090feddff91c",
+        "text": "We click the new page into existence once we can confidently write more than our readers already assume from title alone."
+      },
+      "date": 1357314476922
+    },
+    {
+      "type": "edit",
+      "id": "ac689635b14ad473",
+      "item": {
+        "type": "paragraph",
+        "id": "ac689635b14ad473",
+        "text": "A wiki buds new pages as the need for them emerges. At this point in creation we challenge our future selves to thoughts beyond our immediate needs else the new remains only a footnote to the old."
+      },
+      "date": 1357314698194
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0c08b435123e2a1f"
+      },
+      "id": "0c08b435123e2a1f",
+      "type": "add",
+      "after": "2132090feddff91c",
+      "date": 1357314734431
+    },
+    {
+      "type": "edit",
+      "id": "0c08b435123e2a1f",
+      "item": {
+        "type": "paragraph",
+        "id": "0c08b435123e2a1f",
+        "text": "<h3> Charter"
+      },
+      "date": 1357314753657
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8c372d4e450f5f3a",
+        "text": ""
+      },
+      "id": "8c372d4e450f5f3a",
+      "type": "add",
+      "after": "0c08b435123e2a1f",
+      "date": 1357314754162
+    },
+    {
+      "type": "edit",
+      "id": "8c372d4e450f5f3a",
+      "item": {
+        "type": "paragraph",
+        "id": "8c372d4e450f5f3a",
+        "text": "A blank page is a new beginning."
+      },
+      "date": 1357314840978
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d796dc6d0631b971",
+        "text": ""
+      },
+      "id": "d796dc6d0631b971",
+      "type": "add",
+      "after": "8c372d4e450f5f3a",
+      "date": 1357314841484
+    },
+    {
+      "type": "edit",
+      "id": "d796dc6d0631b971",
+      "item": {
+        "type": "paragraph",
+        "id": "d796dc6d0631b971",
+        "text": "We write the first paragraph, the charter for the page. "
+      },
+      "date": 1357315128355
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e5403b9b91f0d391",
+        "text": "by repeating the title in more words, different words, words that remove ambiguity in the title while preserving, enlarging, its promise."
+      },
+      "id": "e5403b9b91f0d391",
+      "type": "add",
+      "after": "d796dc6d0631b971",
+      "date": 1357315128861
+    },
+    {
+      "type": "edit",
+      "id": "e5403b9b91f0d391",
+      "item": {
+        "type": "paragraph",
+        "id": "e5403b9b91f0d391",
+        "text": "We charter a page by repeating the title in more words, different words, words that remove ambiguity in the title while preserving, enlarging, its promise."
+      },
+      "date": 1357315316777
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d36a83d18752a33c",
+        "text": ""
+      },
+      "id": "d36a83d18752a33c",
+      "type": "add",
+      "after": "e5403b9b91f0d391",
+      "date": 1357315317283
+    },
+    {
+      "type": "edit",
+      "id": "d36a83d18752a33c",
+      "item": {
+        "type": "paragraph",
+        "id": "d36a83d18752a33c",
+        "text": "We save for immediately subsequent paragraphs the facts and links that will support the charter, our purpose for making new."
+      },
+      "date": 1357315542427
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d612f9699e7eff91",
+        "text": ""
+      },
+      "id": "d612f9699e7eff91",
+      "type": "add",
+      "after": "d36a83d18752a33c",
+      "date": 1357315542932
+    },
+    {
+      "type": "edit",
+      "id": "d612f9699e7eff91",
+      "item": {
+        "type": "paragraph",
+        "id": "d612f9699e7eff91",
+        "text": "We can rest now, or go on incrementing paragraphs. We will sharpen these first words later as the page develops."
+      },
+      "date": 1357315811923
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a5c3959fcfbee892",
+        "text": ""
+      },
+      "id": "a5c3959fcfbee892",
+      "type": "add",
+      "after": "ac689635b14ad473",
+      "date": 1357315836182
+    },
+    {
+      "type": "edit",
+      "id": "a5c3959fcfbee892",
+      "item": {
+        "type": "paragraph",
+        "id": "a5c3959fcfbee892",
+        "text": "<h3> Need"
+      },
+      "date": 1357315842371
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "542825421e02858c",
+        "text": ""
+      },
+      "id": "542825421e02858c",
+      "type": "add",
+      "after": "d612f9699e7eff91",
+      "date": 1357315975865
+    },
+    {
+      "type": "edit",
+      "id": "542825421e02858c",
+      "item": {
+        "type": "paragraph",
+        "id": "542825421e02858c",
+        "text": "more about keywords"
+      },
+      "date": 1357316027139
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fc123669593eecd1",
+        "text": ""
+      },
+      "id": "fc123669593eecd1",
+      "type": "add",
+      "after": "542825421e02858c",
+      "date": 1357316027647
+    },
+    {
+      "type": "edit",
+      "id": "fc123669593eecd1",
+      "item": {
+        "type": "paragraph",
+        "id": "fc123669593eecd1",
+        "text": "more about search results"
+      },
+      "date": 1357316044275
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "52815cb3ea98406b",
+        "text": ""
+      },
+      "id": "52815cb3ea98406b",
+      "type": "add",
+      "after": "fc123669593eecd1",
+      "date": 1357316056946
+    },
+    {
+      "type": "edit",
+      "id": "52815cb3ea98406b",
+      "item": {
+        "type": "paragraph",
+        "id": "52815cb3ea98406b",
+        "text": "<h3> Flow"
+      },
+      "date": 1357316080451
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "66c99f9be901d235",
+        "text": ""
+      },
+      "id": "66c99f9be901d235",
+      "type": "add",
+      "after": "52815cb3ea98406b",
+      "date": 1357316080957
+    },
+    {
+      "type": "edit",
+      "id": "66c99f9be901d235",
+      "item": {
+        "type": "paragraph",
+        "id": "66c99f9be901d235",
+        "text": "We seek small pieces loosely joined."
+      },
+      "date": 1357316194685
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1fe49a55ae306f9d",
+        "text": ""
+      },
+      "id": "1fe49a55ae306f9d",
+      "type": "add",
+      "after": "66c99f9be901d235",
+      "date": 1357316195195
+    },
+    {
+      "type": "edit",
+      "id": "1fe49a55ae306f9d",
+      "item": {
+        "type": "paragraph",
+        "id": "1fe49a55ae306f9d",
+        "text": "A tree forms as we bud new pages from old."
+      },
+      "date": 1357316670170
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "10461d8b9875e3a5",
+        "text": ""
+      },
+      "id": "10461d8b9875e3a5",
+      "type": "add",
+      "after": "1fe49a55ae306f9d",
+      "date": 1357316670676
+    },
+    {
+      "type": "edit",
+      "id": "10461d8b9875e3a5",
+      "item": {
+        "type": "paragraph",
+        "id": "10461d8b9875e3a5",
+        "text": "A web forms as we reuse pages through links."
+      },
+      "date": 1357316722378
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "54f0030a3bc9f41f",
+        "text": ""
+      },
+      "id": "54f0030a3bc9f41f",
+      "type": "add",
+      "after": "10461d8b9875e3a5",
+      "date": 1357316722885
+    },
+    {
+      "type": "edit",
+      "id": "54f0030a3bc9f41f",
+      "item": {
+        "type": "paragraph",
+        "id": "54f0030a3bc9f41f",
+        "text": "A collaboration forms as our pages fork."
+      },
+      "date": 1357316808601
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1b9f7a532d0b04cf",
+        "text": ""
+      },
+      "id": "1b9f7a532d0b04cf",
+      "type": "add",
+      "after": "54f0030a3bc9f41f",
+      "date": 1357316809106
+    },
+    {
+      "type": "edit",
+      "id": "1b9f7a532d0b04cf",
+      "item": {
+        "type": "paragraph",
+        "id": "1b9f7a532d0b04cf",
+        "text": "A neighborhood forms as others embrace our charters."
+      },
+      "date": 1357316892657
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "50b875bedb638fab",
+        "text": ""
+      },
+      "id": "50b875bedb638fab",
+      "type": "add",
+      "after": "1b9f7a532d0b04cf",
+      "date": 1357317080003
+    },
+    {
+      "type": "edit",
+      "id": "50b875bedb638fab",
+      "item": {
+        "type": "paragraph",
+        "id": "50b875bedb638fab",
+        "text": "An industry forms as our pages produce lasting value."
+      },
+      "date": 1357317116803
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "43bdf191d9ff385f",
+        "text": ""
+      },
+      "id": "43bdf191d9ff385f",
+      "type": "add",
+      "after": "50b875bedb638fab",
+      "date": 1357317154322
+    },
+    {
+      "type": "edit",
+      "id": "43bdf191d9ff385f",
+      "item": {
+        "type": "paragraph",
+        "id": "43bdf191d9ff385f",
+        "text": "The page becomes the unit of work. We work to understand and appreciate what it offers. It works to make its offering relevant to us. The page is the computer, fast and capable, working within the context we create, serving our needs of the moment and co-evolving with us into the future. "
+      },
+      "date": 1357317814774
+    },
+    {
+      "type": "edit",
+      "id": "43bdf191d9ff385f",
+      "item": {
+        "type": "paragraph",
+        "id": "43bdf191d9ff385f",
+        "text": "The page becomes the unit of work. We work to understand and appreciate what it offers. It works to make its offering relevant to us."
+      },
+      "date": 1357317827125
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7042e93f216c9688",
+        "text": "The page is the computer, fast and capable, working within the context we create, serving our needs of the moment and co-evolving with us into the future. "
+      },
+      "id": "7042e93f216c9688",
+      "type": "add",
+      "after": "43bdf191d9ff385f",
+      "date": 1357317827634
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f33ce13d520f618d",
+        "text": ""
+      },
+      "id": "f33ce13d520f618d",
+      "type": "add",
+      "after": "fc123669593eecd1",
+      "date": 1357317856836
+    },
+    {
+      "type": "edit",
+      "id": "f33ce13d520f618d",
+      "item": {
+        "type": "paragraph",
+        "id": "f33ce13d520f618d",
+        "text": "<h3> Mechanism"
+      },
+      "date": 1357317865051
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "07cf0eca1c31301d",
+        "text": ""
+      },
+      "id": "07cf0eca1c31301d",
+      "type": "add",
+      "after": "f33ce13d520f618d",
+      "date": 1357317865556
+    },
+    {
+      "type": "edit",
+      "id": "07cf0eca1c31301d",
+      "item": {
+        "type": "paragraph",
+        "id": "07cf0eca1c31301d",
+        "text": "more about plugins"
+      },
+      "date": 1357317879546
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "8259678504742157",
+        "text": ""
+      },
+      "id": "8259678504742157",
+      "type": "add",
+      "after": "07cf0eca1c31301d",
+      "date": 1357317880051
+    },
+    {
+      "type": "edit",
+      "id": "8259678504742157",
+      "item": {
+        "type": "paragraph",
+        "id": "8259678504742157",
+        "text": "more about data flow"
+      },
+      "date": 1357317887187
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "e667bdeaf2c5084a",
+        "text": ""
+      },
+      "id": "e667bdeaf2c5084a",
+      "type": "add",
+      "after": "8259678504742157",
+      "date": 1357317887691
+    },
+    {
+      "type": "edit",
+      "id": "e667bdeaf2c5084a",
+      "item": {
+        "type": "paragraph",
+        "id": "e667bdeaf2c5084a",
+        "text": "more about bindings"
+      },
+      "date": 1357317897779
+    },
+    {
+      "type": "edit",
+      "id": "8259678504742157",
+      "item": {
+        "type": "paragraph",
+        "id": "8259678504742157",
+        "text": "more about data"
+      },
+      "date": 1357317906690
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ab74e211f0682bef",
+        "text": ""
+      },
+      "id": "ab74e211f0682bef",
+      "type": "add",
+      "after": "66c99f9be901d235",
+      "date": 1357321332144
+    },
+    {
+      "type": "edit",
+      "id": "ab74e211f0682bef",
+      "item": {
+        "type": "paragraph",
+        "id": "ab74e211f0682bef",
+        "text": "more about emergent information architecture"
+      },
+      "date": 1357321344651
+    },
+    {
+      "type": "remove",
+      "id": "ab74e211f0682bef",
+      "date": 1357321353210
+    },
+    {
+      "type": "edit",
+      "id": "a5c3959fcfbee892",
+      "item": {
+        "type": "html",
+        "id": "a5c3959fcfbee892",
+        "text": "<h3> Need"
+      },
+      "date": 1420343550932
+    },
+    {
+      "type": "edit",
+      "id": "0c08b435123e2a1f",
+      "item": {
+        "type": "html",
+        "id": "0c08b435123e2a1f",
+        "text": "<h3> Charter"
+      },
+      "date": 1420343555966
+    },
+    {
+      "type": "edit",
+      "id": "f33ce13d520f618d",
+      "item": {
+        "type": "html",
+        "id": "f33ce13d520f618d",
+        "text": "<h3> Mechanism"
+      },
+      "date": 1420343559569
+    },
+    {
+      "type": "edit",
+      "id": "52815cb3ea98406b",
+      "item": {
+        "type": "html",
+        "id": "52815cb3ea98406b",
+        "text": "<h3> Flow"
+      },
+      "date": 1420343561193
+    },
+    {
+      "type": "fork",
+      "site": "ward.fed.wiki.org",
+      "date": 1546839120287
+    },
+    {
+      "type": "fork",
+      "site": "wiki.dbbs.co",
+      "date": 1643299560499
+    }
+  ]
+}

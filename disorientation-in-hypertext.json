@@ -1,0 +1,232 @@
+{
+  "title": "Disorientation in Hypertext",
+  "story": [
+    {
+      "id": "87a0000",
+      "type": "paragraph",
+      "text": "Disorientation in hypertext: the effects of three text structures on navigation performance. Sharon McDonald, Rosemary J. Stevenson. 1996. A study examines the effects of two hypertext topologies (hierarchy and non-linear) on navigation performance compared to a linear version of the same document. ... The results showed that subjects performed better with the linear text than with the non-linear text, while performance on the hierarchical document fell between these two extremes.  [https://www.interruptions.net/literature/McDonald-ApplErgon96.pdf pdf]"
+    },
+    {
+      "id": "37be0000",
+      "type": "paragraph",
+      "text": "Subjects"
+    },
+    {
+      "type": "paragraph",
+      "id": "efce22652c2b799c",
+      "text": "Twelve postgraduate students participated in the study, five males and seven females. Their ages ranged between 21 and 37 years. All subjects had some previous experience of using computers. Subjects were tested individually.\n"
+    },
+    {
+      "id": "567a2000",
+      "type": "paragraph",
+      "text": "Materials"
+    },
+    {
+      "type": "paragraph",
+      "id": "f59e2544519bea79",
+      "text": "The hypertext document used in the experiment is called ‘The Nature of Human Learning’. This text-based document of approximately 4500 words in length presents a discussion of the psychological processes underlying human learning. The text was taken from: ‘Language, Thought and Representation’ by R.J. Stevenson (1993) and ‘Learning: Principles, Processes and Practices’ by R.J. Stevenson and J.A. Palmer (1994). The text was adapted for use in hypertext format by the present authors. Each hypertext document contained the same information but had a different structure."
+    },
+    {
+      "type": "pagefold",
+      "id": "f66807142978f1f1",
+      "text": "."
+    },
+    {
+      "type": "paragraph",
+      "id": "34eee61402467fce",
+      "text": "We take issue with results of this study based on the the experiment design. McLuhan tells us how the medium dominates the content of message. Hypermedia is a new media."
+    },
+    {
+      "type": "paragraph",
+      "id": "648674fdd35fd2f7",
+      "text": "We are not remotely surprised that academic articles specifically constructed for publication in academic journals are more naturally understood with linear topology. Particularly when read by people with postgraduate level of experience reading academic material."
+    },
+    {
+      "type": "paragraph",
+      "id": "7c3aaedf73d18f5d",
+      "text": "In our experience, writing hypermedia in wiki produces very different prose than writing for a google doc, for example. We also note that our prose in either medium rarely resembles the academic voice—our chosen media demand something different from our messages."
+    },
+    {
+      "type": "paragraph",
+      "id": "01784fae7c52e44e",
+      "text": "To exaggerate our point, imagine if the authors of the study had evaluated the subjects performance in understanding the two papers adapted to a Broadway musical."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Disorientation in Hypertext",
+        "story": []
+      },
+      "date": 1643483950015
+    },
+    {
+      "id": "87a0000",
+      "type": "add",
+      "item": {
+        "id": "87a0000",
+        "type": "paragraph",
+        "text": "Disorientation in hypertext: the effects of three text structures on navigation performance. Sharon McDonald, Rosemary J. Stevenson. 1996. A study examines the effects of two hypertext topologies (hierarchy and non-linear) on navigation performance compared to a linear version of the same document. ... The results showed that subjects performed better with the linear text than with the non-linear text, while performance on the hierarchical document fell between these two extremes.  [https://www.interruptions.net/literature/McDonald-ApplErgon96.pdf pdf]"
+      },
+      "date": 1643484607647
+    },
+    {
+      "id": "37be0000",
+      "type": "add",
+      "item": {
+        "id": "37be0000",
+        "type": "paragraph",
+        "text": "Subjects"
+      },
+      "after": "87a0000",
+      "date": 1643484678453
+    },
+    {
+      "id": "efce22652c2b799c",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "efce22652c2b799c",
+        "text": "Twelve postgraduate students participated in the study, five males and seven females. Their ages ranged between 21 and 37 years. All subjects had some previous experience of usi-ng computers. Subjects were tested individually.\n"
+      },
+      "after": "37be0000",
+      "date": 1643484682130
+    },
+    {
+      "id": "567a2000",
+      "type": "add",
+      "item": {
+        "id": "567a2000",
+        "type": "paragraph",
+        "text": "Materials"
+      },
+      "after": "efce22652c2b799c",
+      "date": 1643484685222
+    },
+    {
+      "id": "f59e2544519bea79",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "f59e2544519bea79",
+        "text": "The hypertext document used in the experiment is called ‘The Nature of Human Learning’. This text-based document of approximately 4500 words in length presents a discussion of the psychological processes underlying human learning. The text was taken from: ‘Language, Thought and Representation’ by R.J. Stevenson (1993) and ‘Learning: Principles, Processes and Practices’ by R.J. Stevenson and J.A. Palmer (1994). The text was adapted for use in hypertext format by the present authors. Each hypertext document contained the same information but had a different structure."
+      },
+      "after": "567a2000",
+      "date": 1643484714377
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f66807142978f1f1"
+      },
+      "id": "f66807142978f1f1",
+      "type": "add",
+      "after": "f59e2544519bea79",
+      "date": 1643484740271
+    },
+    {
+      "type": "edit",
+      "id": "f66807142978f1f1",
+      "item": {
+        "type": "pagefold",
+        "id": "f66807142978f1f1",
+        "text": "."
+      },
+      "date": 1643484743603
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "34eee61402467fce"
+      },
+      "id": "34eee61402467fce",
+      "type": "add",
+      "after": "f66807142978f1f1",
+      "date": 1643484745551
+    },
+    {
+      "type": "edit",
+      "id": "34eee61402467fce",
+      "item": {
+        "type": "paragraph",
+        "id": "34eee61402467fce",
+        "text": "We take issue with results of this study based on the the experiment design. McLuhan tells us how the medium dominates the content of message. Hypermedia is a new media."
+      },
+      "date": 1643484897081
+    },
+    {
+      "type": "add",
+      "id": "648674fdd35fd2f7",
+      "item": {
+        "type": "paragraph",
+        "id": "648674fdd35fd2f7",
+        "text": "We are not remotely surprised that academic articles specifically constructed for publication in academic journals are more naturally understood with linear topology."
+      },
+      "after": "34eee61402467fce",
+      "date": 1643485044702
+    },
+    {
+      "type": "add",
+      "id": "7c3aaedf73d18f5d",
+      "item": {
+        "type": "paragraph",
+        "id": "7c3aaedf73d18f5d",
+        "text": "In our experience, writing hypermedia in wiki produces very different prose than writing for a google doc, for example."
+      },
+      "after": "648674fdd35fd2f7",
+      "date": 1643485141055
+    },
+    {
+      "type": "add",
+      "id": "01784fae7c52e44e",
+      "item": {
+        "type": "paragraph",
+        "id": "01784fae7c52e44e",
+        "text": "Imagine if the authors of the study had evaluated the readers "
+      },
+      "after": "7c3aaedf73d18f5d",
+      "date": 1643485205100
+    },
+    {
+      "type": "edit",
+      "id": "efce22652c2b799c",
+      "item": {
+        "type": "paragraph",
+        "id": "efce22652c2b799c",
+        "text": "Twelve postgraduate students participated in the study, five males and seven females. Their ages ranged between 21 and 37 years. All subjects had some previous experience of using computers. Subjects were tested individually.\n"
+      },
+      "date": 1643485208204
+    },
+    {
+      "type": "edit",
+      "id": "648674fdd35fd2f7",
+      "item": {
+        "type": "paragraph",
+        "id": "648674fdd35fd2f7",
+        "text": "We are not remotely surprised that academic articles specifically constructed for publication in academic journals are more naturally understood with linear topology. Particularly when read by people with postgraduate level of experience reading academic material."
+      },
+      "date": 1643485281023
+    },
+    {
+      "type": "edit",
+      "id": "7c3aaedf73d18f5d",
+      "item": {
+        "type": "paragraph",
+        "id": "7c3aaedf73d18f5d",
+        "text": "In our experience, writing hypermedia in wiki produces very different prose than writing for a google doc, for example. We also note that our prose in either medium rarely resembles the academic voice—our chosen media demand something different from our messages."
+      },
+      "date": 1643485378601
+    },
+    {
+      "type": "edit",
+      "id": "01784fae7c52e44e",
+      "item": {
+        "type": "paragraph",
+        "id": "01784fae7c52e44e",
+        "text": "To exaggerate our point, imagine if the authors of the study had evaluated the subjects performance in understanding the two papers adapted to a Broadway musical."
+      },
+      "date": 1643485497682
+    }
+  ]
+}
