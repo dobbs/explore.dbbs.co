@@ -1,0 +1,320 @@
+{
+  "title": "Design, Incidents, and Insight",
+  "story": [
+    {
+      "id": "3b0fe000",
+      "type": "paragraph",
+      "text": "We seek a persuasive story for why the software industry should embrace incidents rather than avoid them. Our resources are Design and Reality, Story of Advancers, Gary Klein's framework for generating insights, a podcast titled Six Levels Down, and however much time we can spare."
+    },
+    {
+      "type": "reference",
+      "id": "44f0c35b354e84bb",
+      "text": "Rebecca was invited to consult for a company that makes hardware and software for oil rigs. The initial model assumed alarms are directly connected to emergency conditions in the world. The system’s perception of the world is distorted: when engineers turn off the alarm, the system believes the emergency is over. But it’s not, turning an alarm off doesn’t change the emergency condition in the world. ... the team discovered a distinction between the alarm sounding, and the state of alertness. ... The new model decoupled the emergency from the sounding of the alarm by introducing \"alert conditions\" in addition to \"alerts\".",
+      "site": "wander.dbbs.co",
+      "slug": "design-and-reality",
+      "title": "Design and Reality"
+    },
+    {
+      "type": "reference",
+      "id": "fef99ed2f74d26b7",
+      "site": "wander.dbbs.co",
+      "slug": "design-and-reality",
+      "title": "Design and Reality",
+      "text": "These creative introductions of novel concepts into the model are rarely discussed in literature about modelling. Software design books talk about turning concepts into types and data structures, but what if the concept isn’t there yet? Forming distinctions, not just abstractions, however, can help clarify a model. These distinctions create opportunities."
+    },
+    {
+      "type": "reference",
+      "id": "b818956082fb0006",
+      "site": "wander.dbbs.co",
+      "slug": "story-of-advancers",
+      "title": "Story of Advancers",
+      "text": "It's common to treat method objects as just a coding convenience. But Cunningham's team found themselves treating this one as a design tool. They gave it a name - Advancer - that sounded like one from the domain (though none of the domain experts had a corresponding notion). Once Advancers were part of their design vocabulary, thinking about how to satisfy a new requirement meant, in part, thinking about whether a special kind of Advancer might fit nicely. By changing the way they thought about the domain, the team was able to write better code faster."
+    },
+    {
+      "type": "reference",
+      "id": "b958b0a2698874dc",
+      "site": "wander.dbbs.co",
+      "slug": "story-of-advancers",
+      "title": "Story of Advancers",
+      "text": "It was only in later years that Cunningham realized why tax calculations had been so troublesome. The government and traders had different interests. The traders cared most about their positions, whereas the government cared most about how traders came to have them. It's that latter idea that Advancers captured, but conversations with domain experts couldn't tease it out - even tax experts didn't know how to express it that way. It only came out through a conversation with the code."
+    },
+    {
+      "type": "paragraph",
+      "id": "6a501c1ad9ef1248",
+      "text": "These two stories about software design help us explain what we mean by insight."
+    },
+    {
+      "type": "reference",
+      "id": "dc32664ca67315d1",
+      "site": "wander.dbbs.co",
+      "slug": "six-levels-down",
+      "title": "Six Levels Down",
+      "text": "\"We pretty quickly figured out that the rules weren't written down anywhere. The only people who knew the rules were people who had actually worked in the industry and had been incredibly observant for the past five years.\""
+    },
+    {
+      "type": "reference",
+      "id": "7de06ded1c1b9449",
+      "site": "wander.dbbs.co",
+      "slug": "six-levels-down",
+      "title": "Six Levels Down",
+      "text": "\"If I had asked Sue to sit in a room and write out everything you know about billing she wouldn't have been able to produce what we needed to be successful. Instead, she had a set of experiences such that when she got placed into a situation where something didn't make sense, she would immediately recognize that something was wrong and search her head to understand why it was wrong.\""
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Design, Incidents, and Insight",
+        "story": [
+          {
+            "id": "3b0fe000",
+            "type": "paragraph",
+            "text": "We seek a persuasive story for why the software industry should embrace incidents rather than avoid them. Our resources are Design and Reality, Story of Advancers, Gary Klein's framework for generating insights, a podcast titled Six Levels Down, and however much time we can spare."
+          }
+        ]
+      },
+      "date": 1649959111167
+    },
+    {
+      "type": "fork",
+      "date": 1649959952622
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "fef99ed2f74d26b7"
+      },
+      "id": "fef99ed2f74d26b7",
+      "type": "add",
+      "after": "3b0fe000",
+      "date": 1649960327146
+    },
+    {
+      "type": "edit",
+      "id": "fef99ed2f74d26b7",
+      "item": {
+        "type": "reference",
+        "id": "fef99ed2f74d26b7",
+        "site": "wander.dbbs.co",
+        "slug": "design-and-reality",
+        "title": "Design and Reality",
+        "text": "Mathias Verraes and Rebecca Wirfs-Brock describe a design breakthrough in \"Design and Reality: Reframing the problem through design\". Rebecca was invited to consult for a company that makes hardware and software for oil rigs. The initial model assumed alarms are directly connected to emergency conditions in the world. The system’s perception of the world is distorted: when engineers turn off the alarm, the system believes the emergency is over. But it’s not, turning an alarm off doesn’t change the emergency condition in the world. ... the team discovered"
+      },
+      "date": 1649960332257
+    },
+    {
+      "type": "edit",
+      "id": "fef99ed2f74d26b7",
+      "item": {
+        "type": "reference",
+        "id": "fef99ed2f74d26b7",
+        "site": "wander.dbbs.co",
+        "slug": "design-and-reality",
+        "title": "Design and Reality",
+        "text": "These creative introductions of novel concepts into the model are rarely discussed in literature about modelling. Software design books talk about turning concepts into types and data structures, but what if the concept isn’t there yet? Forming distinctions, not just abstractions, however, can help clarify a model. These distinctions create opportunities."
+      },
+      "date": 1649960365234
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b818956082fb0006"
+      },
+      "id": "b818956082fb0006",
+      "type": "add",
+      "after": "fef99ed2f74d26b7",
+      "date": 1649960484184
+    },
+    {
+      "type": "edit",
+      "id": "b818956082fb0006",
+      "item": {
+        "type": "reference",
+        "id": "b818956082fb0006",
+        "site": "wander.dbbs.co",
+        "slug": "story-of-advancers",
+        "title": "Story of Advancers",
+        "text": "Brian Marick says, I'm especially interested in the stories that peers tell each other to reinforce a style of working and body of practical knowledge. Ward's story of \"method object\" is a good example. [http://www.exampler.com/old-blog/2004/08/11/index.html#advancers post]"
+      },
+      "date": 1649960488050
+    },
+    {
+      "type": "edit",
+      "id": "b818956082fb0006",
+      "item": {
+        "type": "reference",
+        "id": "b818956082fb0006",
+        "site": "wander.dbbs.co",
+        "slug": "story-of-advancers",
+        "title": "Story of Advancers",
+        "text": "It's common to treat method objects as just a coding convenience. But Cunningham's team found themselves treating this one as a design tool. They gave it a name - Advancer - that sounded like one from the domain (though none of the domain experts had a corresponding notion). Once Advancers were part of their design vocabulary, thinking about how to satisfy a new requirement meant, in part, thinking about whether a special kind of Advancer might fit nicely. By changing the way they thought about the domain, the team was able to write better code faster."
+      },
+      "date": 1649960521914
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b958b0a2698874dc"
+      },
+      "id": "b958b0a2698874dc",
+      "type": "add",
+      "after": "b818956082fb0006",
+      "date": 1649960530644
+    },
+    {
+      "type": "edit",
+      "id": "b958b0a2698874dc",
+      "item": {
+        "type": "reference",
+        "id": "b958b0a2698874dc",
+        "site": "wander.dbbs.co",
+        "slug": "story-of-advancers",
+        "title": "Story of Advancers",
+        "text": "Brian Marick says, I'm especially interested in the stories that peers tell each other to reinforce a style of working and body of practical knowledge. Ward's story of \"method object\" is a good example. [http://www.exampler.com/old-blog/2004/08/11/index.html#advancers post]"
+      },
+      "date": 1649960544319
+    },
+    {
+      "type": "edit",
+      "id": "b958b0a2698874dc",
+      "item": {
+        "type": "reference",
+        "id": "b958b0a2698874dc",
+        "site": "wander.dbbs.co",
+        "slug": "story-of-advancers",
+        "title": "Story of Advancers",
+        "text": "It was only in later years that Cunningham realized why tax calculations had been so troublesome. The government and traders had different interests. The traders cared most about their positions, whereas the government cared most about how traders came to have them. It's that latter idea that Advancers captured, but conversations with domain experts couldn't tease it out - even tax experts didn't know how to express it that way. It only came out through a conversation with the code."
+      },
+      "date": 1649960581987
+    },
+    {
+      "type": "add",
+      "id": "44f0c35b354e84bb",
+      "item": {
+        "type": "factory",
+        "id": "44f0c35b354e84bb",
+        "text": "..."
+      },
+      "after": "3b0fe000",
+      "date": 1649960836146
+    },
+    {
+      "type": "edit",
+      "id": "44f0c35b354e84bb",
+      "item": {
+        "type": "reference",
+        "id": "44f0c35b354e84bb",
+        "text": "Mathias Verraes and Rebecca Wirfs-Brock describe a design breakthrough in \"Design and Reality: Reframing the problem through design\". Rebecca was invited to consult for a company that makes hardware and software for oil rigs. The initial model assumed alarms are directly connected to emergency conditions in the world. The system’s perception of the world is distorted: when engineers turn off the alarm, the system believes the emergency is over. But it’s not, turning an alarm off doesn’t change the emergency condition in the world. ... the team discovered",
+        "site": "wander.dbbs.co",
+        "slug": "design-and-reality",
+        "title": "Design and Reality"
+      },
+      "date": 1649960840153
+    },
+    {
+      "type": "edit",
+      "id": "44f0c35b354e84bb",
+      "item": {
+        "type": "reference",
+        "id": "44f0c35b354e84bb",
+        "text": "Rebecca was invited to consult for a company that makes hardware and software for oil rigs. The initial model assumed alarms are directly connected to emergency conditions in the world. The system’s perception of the world is distorted: when engineers turn off the alarm, the system believes the emergency is over. But it’s not, turning an alarm off doesn’t change the emergency condition in the world. ... the team discovered a distinction between the alarm sounding, and the state of alertness. ... The new model decoupled the emergency from the sounding of the alarm by introducing \"alert conditions\" in addition to \"alerts\".",
+        "site": "wander.dbbs.co",
+        "slug": "design-and-reality",
+        "title": "Design and Reality"
+      },
+      "date": 1649960928586
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "6a501c1ad9ef1248"
+      },
+      "id": "6a501c1ad9ef1248",
+      "type": "add",
+      "after": "b958b0a2698874dc",
+      "date": 1649960976241
+    },
+    {
+      "type": "edit",
+      "id": "6a501c1ad9ef1248",
+      "item": {
+        "type": "paragraph",
+        "id": "6a501c1ad9ef1248",
+        "text": "These two stories about software design help us explain what we mean by insight."
+      },
+      "date": 1649961030871
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dc32664ca67315d1"
+      },
+      "id": "dc32664ca67315d1",
+      "type": "add",
+      "after": "6a501c1ad9ef1248",
+      "date": 1650245616474
+    },
+    {
+      "type": "edit",
+      "id": "dc32664ca67315d1",
+      "item": {
+        "type": "reference",
+        "id": "dc32664ca67315d1",
+        "site": "wander.dbbs.co",
+        "slug": "six-levels-down",
+        "title": "Six Levels Down",
+        "text": "Todd Park, tech entrepreneur, was looking to improve prenatal care. Athenahealth. Raised millions of dollars to buy a healthcare clinic in San Diego as a proof of concept. Bob Gatewood was hired. They couldn't get insurance companies to pay them. It became a cause. We must save this practice 'cos we're the social safety net for San Diego County. They had to solve this surprising problem of getting paid by insurance companies. They needed an expert. [https://www.pushkin.fm/episode/six-levels-down/ podcast]"
+      },
+      "date": 1650245621371
+    },
+    {
+      "type": "edit",
+      "id": "dc32664ca67315d1",
+      "item": {
+        "type": "reference",
+        "id": "dc32664ca67315d1",
+        "site": "wander.dbbs.co",
+        "slug": "six-levels-down",
+        "title": "Six Levels Down",
+        "text": "\"We pretty quickly figured out that the rules weren't written down anywhere. The only people who knew the rules were people who had actually worked in the industry and had been incredibly observant for the past five years.\""
+      },
+      "date": 1650245687065
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7de06ded1c1b9449"
+      },
+      "id": "7de06ded1c1b9449",
+      "type": "add",
+      "after": "dc32664ca67315d1",
+      "date": 1650245694140
+    },
+    {
+      "type": "edit",
+      "id": "7de06ded1c1b9449",
+      "item": {
+        "type": "reference",
+        "id": "7de06ded1c1b9449",
+        "site": "wander.dbbs.co",
+        "slug": "six-levels-down",
+        "title": "Six Levels Down",
+        "text": "Todd Park, tech entrepreneur, was looking to improve prenatal care. Athenahealth. Raised millions of dollars to buy a healthcare clinic in San Diego as a proof of concept. Bob Gatewood was hired. They couldn't get insurance companies to pay them. It became a cause. We must save this practice 'cos we're the social safety net for San Diego County. They had to solve this surprising problem of getting paid by insurance companies. They needed an expert. [https://www.pushkin.fm/episode/six-levels-down/ podcast]"
+      },
+      "date": 1650245699764
+    },
+    {
+      "type": "edit",
+      "id": "7de06ded1c1b9449",
+      "item": {
+        "type": "reference",
+        "id": "7de06ded1c1b9449",
+        "site": "wander.dbbs.co",
+        "slug": "six-levels-down",
+        "title": "Six Levels Down",
+        "text": "\"If I had asked Sue to sit in a room and write out everything you know about billing she wouldn't have been able to produce what we needed to be successful. Instead, she had a set of experiences such that when she got placed into a situation where something didn't make sense, she would immediately recognize that something was wrong and search her head to understand why it was wrong.\""
+      },
+      "date": 1650245724075
+    }
+  ]
+}
