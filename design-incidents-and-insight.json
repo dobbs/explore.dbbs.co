@@ -7,6 +7,22 @@
       "text": "We seek a persuasive story for why the software industry should embrace incidents rather than avoid them. Our resources are Design and Reality, Story of Advancers, Gary Klein's framework for generating insights, a podcast titled Six Levels Down, and however much time we can spare."
     },
     {
+      "type": "paragraph",
+      "id": "7b32c0eaaaec23a0",
+      "text": "We begin with two stories about software design and one about a health insurance startup."
+    },
+    {
+      "type": "paragraph",
+      "id": "197cdefb13dafea6",
+      "text": "Design, by its nature, aims to change reality. The first two stories are examples of how the practice of creating software creates insights about the domain of that software. The first story is relatively recent and concerns software for oil rigs. The second story is from the early days of object oriented programming and concerns finance."
+    },
+    {
+      "type": "paragraph",
+      "id": "55160683d1119da1",
+      "text": "Mathias Verraes and Rebecca Wirfs-Brock tell a story of discovering an abstraction called Alert Condition. The story finds insight from programmers carefully considering the software implications of the messy reality of an explosion on an oil rig.",
+      "alias": "e784592528a8e4e1"
+    },
+    {
       "type": "reference",
       "id": "44f0c35b354e84bb",
       "text": "Rebecca was invited to consult for a company that makes hardware and software for oil rigs. The initial model assumed alarms are directly connected to emergency conditions in the world. The system’s perception of the world is distorted: when engineers turn off the alarm, the system believes the emergency is over. But it’s not, turning an alarm off doesn’t change the emergency condition in the world. ... the team discovered a distinction between the alarm sounding, and the state of alertness. ... The new model decoupled the emergency from the sounding of the alarm by introducing \"alert conditions\" in addition to \"alerts\".",
@@ -21,6 +37,11 @@
       "slug": "design-and-reality",
       "title": "Design and Reality",
       "text": "These creative introductions of novel concepts into the model are rarely discussed in literature about modelling. Software design books talk about turning concepts into types and data structures, but what if the concept isn’t there yet? Forming distinctions, not just abstractions, however, can help clarify a model. These distinctions create opportunities."
+    },
+    {
+      "type": "paragraph",
+      "id": "e784592528a8e4e1",
+      "text": "Ward Cunningham tells a story of discovering a method object in WyCash. The story finds a similar insight from programmers pushing against code for real applications discovering insights the experts could not articulate."
     },
     {
       "type": "reference",
@@ -41,7 +62,7 @@
     {
       "type": "paragraph",
       "id": "6a501c1ad9ef1248",
-      "text": "These two stories about software design help us explain what we mean by insight."
+      "text": "Our third story features a healthcare startup which built a five billion dollar business around hidden and mundane expertise of one expert in medical billing and a group of software people trying to ."
     },
     {
       "type": "reference",
@@ -58,6 +79,31 @@
       "slug": "six-levels-down",
       "title": "Six Levels Down",
       "text": "\"If I had asked Sue to sit in a room and write out everything you know about billing she wouldn't have been able to produce what we needed to be successful. Instead, she had a set of experiences such that when she got placed into a situation where something didn't make sense, she would immediately recognize that something was wrong and search her head to understand why it was wrong.\""
+    },
+    {
+      "type": "paragraph",
+      "id": "cc041c4852f20089",
+      "text": "Expertise is invisible. This thread weaves through all three stories. All three stories also pivot around key insights that completely changed the problem space. The combination of expertise and insight bring us directly to Gary Klein."
+    },
+    {
+      "type": "paragraph",
+      "id": "d88ac1d9c75ba70b",
+      "text": "In Design and Reality, the authors highlight the point that the original design for their software had accurately reflected to things in the world. There were sensors and alarms. What the new design captured is a subjective truth: \"something is an alert condition because in this environment, we believe it should be an alert condition.\" Moreover, the new design opened up new conversations with the domain experts. \"What other alert conditions could exist? What risks aren't we mitigating yet? How should we react?\""
+    },
+    {
+      "type": "paragraph",
+      "id": "a062e39188a27fac",
+      "text": "In the Story of Advancers, the insight uncovered to untangle the code fell at the boundary of expertise of traders and the expectations of tax collectors. Even the tax experts didn't know how to express the difference in their expectations. Each domain of expertise could see these only from their own point of view and only the software developers were confronted with discovering and reconciling the differences in the domains."
+    },
+    {
+      "type": "paragraph",
+      "id": "72c7ace3757e192a",
+      "text": "Two insights jump out of Six Levels Down. It can be hard to even know when expertise is missing—partly because expertise is invisible. One insight was when the founders realized there was a more important business to get into to cope with medical billing. The other key insight is in the title of that episode: the expertise you need is deeply embedded in the org chart and therefore also hard to find."
+    },
+    {
+      "type": "markdown",
+      "id": "3c9470865af98a8d",
+      "text": "- [ ] write a page about Gary Klein, Generating Insight, and Mental Models. See different kinds of insight [https://www.psychologytoday.com/us/blog/seeing-what-others-dont/201306/the-different-forms-insight article]. See different dimensions of mental models [https://www.psychologytoday.com/us/blog/seeing-what-others-dont/202101/the-mental-model-matrix article] "
     }
   ],
   "journal": [
@@ -315,6 +361,256 @@
         "text": "\"If I had asked Sue to sit in a room and write out everything you know about billing she wouldn't have been able to produce what we needed to be successful. Instead, she had a set of experiences such that when she got placed into a situation where something didn't make sense, she would immediately recognize that something was wrong and search her head to understand why it was wrong.\""
       },
       "date": 1650245724075
+    },
+    {
+      "type": "add",
+      "id": "7b32c0eaaaec23a0",
+      "item": {
+        "type": "paragraph",
+        "id": "7b32c0eaaaec23a0",
+        "text": "We begin with two stories about software design. Design, by its nature, aims to change reality. Both stories draw attention to how the practice of creating software creates insights about the domain of that software. The first story is relatively recent and concerns software for oil rigs. The second story is from the early days of object oriented programming and concerns finance."
+      },
+      "after": "3b0fe000",
+      "date": 1650892935904
+    },
+    {
+      "type": "edit",
+      "id": "6a501c1ad9ef1248",
+      "item": {
+        "type": "paragraph",
+        "id": "6a501c1ad9ef1248",
+        "text": "With these two stories fresh in our minds, what is insight?"
+      },
+      "date": 1650893117644
+    },
+    {
+      "type": "edit",
+      "id": "7b32c0eaaaec23a0",
+      "item": {
+        "type": "paragraph",
+        "id": "7b32c0eaaaec23a0",
+        "text": "We begin with two stories about software design and one about a health insurance startup."
+      },
+      "date": 1650893236514
+    },
+    {
+      "type": "add",
+      "id": "197cdefb13dafea6",
+      "item": {
+        "type": "paragraph",
+        "id": "197cdefb13dafea6",
+        "text": "Design, by its nature, aims to change reality. The first two stories are examples of how the practice of creating software creates insights about the domain of that software. The first story is relatively recent and concerns software for oil rigs. The second story is from the early days of object oriented programming and concerns finance."
+      },
+      "after": "7b32c0eaaaec23a0",
+      "date": 1650893278677
+    },
+    {
+      "type": "edit",
+      "id": "6a501c1ad9ef1248",
+      "item": {
+        "type": "paragraph",
+        "id": "6a501c1ad9ef1248",
+        "text": "Our third story features a healthcare startup which built a five billion dollar business around hidden and mundane expertise of one expert in medical billing."
+      },
+      "date": 1650893392633
+    },
+    {
+      "id": "e784592528a8e4e1",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "e784592528a8e4e1",
+        "text": "Ward Cunningham tells a story of discovering a method object in Wycash. The story finds a similar insight from programmers pushing against code for real applications discovering insights the experts could not articulate. See [[Story of Advancers]]."
+      },
+      "after": "fef99ed2f74d26b7",
+      "date": 1650912598829
+    },
+    {
+      "type": "edit",
+      "id": "e784592528a8e4e1",
+      "item": {
+        "type": "paragraph",
+        "id": "e784592528a8e4e1",
+        "text": "Ward Cunningham tells a story of discovering a method object in Wycash. The story finds a similar insight from programmers pushing against code for real applications discovering insights the experts could not articulate."
+      },
+      "date": 1650912609724
+    },
+    {
+      "type": "edit",
+      "id": "e784592528a8e4e1",
+      "item": {
+        "type": "paragraph",
+        "id": "e784592528a8e4e1",
+        "text": "Ward Cunningham tells a story of discovering a method object in WyCash. The story finds a similar insight from programmers pushing against code for real applications discovering insights the experts could not articulate."
+      },
+      "date": 1650912657363
+    },
+    {
+      "id": "55160683d1119da1",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "55160683d1119da1",
+        "text": "Mathias Verraes and Rebecca Wirfs-Brock tell a story of discovering an abstraction called Alert Condition. The story finds similar insight from programmers carefully considering the software implications of the messy reality of an explosion on an oil rig. See [[Design and Reality]].",
+        "alias": "e784592528a8e4e1"
+      },
+      "after": "197cdefb13dafea6",
+      "date": 1650912913262
+    },
+    {
+      "type": "edit",
+      "id": "55160683d1119da1",
+      "item": {
+        "type": "paragraph",
+        "id": "55160683d1119da1",
+        "text": "Mathias Verraes and Rebecca Wirfs-Brock tell a story of discovering an abstraction called Alert Condition. The story finds insight from programmers carefully considering the software implications of the messy reality of an explosion on an oil rig.",
+        "alias": "e784592528a8e4e1"
+      },
+      "date": 1650912937354
+    },
+    {
+      "type": "edit",
+      "id": "6a501c1ad9ef1248",
+      "item": {
+        "type": "paragraph",
+        "id": "6a501c1ad9ef1248",
+        "text": "Our third story features a healthcare startup which built a five billion dollar business around hidden and mundane expertise of one expert in medical billing and a group of software people trying to ."
+      },
+      "date": 1650913167292
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cc041c4852f20089"
+      },
+      "id": "cc041c4852f20089",
+      "type": "add",
+      "after": "7de06ded1c1b9449",
+      "date": 1650978020534
+    },
+    {
+      "type": "edit",
+      "id": "cc041c4852f20089",
+      "item": {
+        "type": "paragraph",
+        "id": "cc041c4852f20089",
+        "text": "Expertise is invisible. This thread weaves through all three stories."
+      },
+      "date": 1650978183695
+    },
+    {
+      "type": "add",
+      "id": "d88ac1d9c75ba70b",
+      "item": {
+        "type": "paragraph",
+        "id": "d88ac1d9c75ba70b",
+        "text": "In Design and Reality, the authors highlight the point that the original design for their software had been closely modeled to the business domain."
+      },
+      "after": "cc041c4852f20089",
+      "date": 1650978270884
+    },
+    {
+      "type": "edit",
+      "id": "d88ac1d9c75ba70b",
+      "item": {
+        "type": "paragraph",
+        "id": "d88ac1d9c75ba70b",
+        "text": "In Design and Reality, the authors highlight the point that the original design for their software had accurately reflected to things in the world. There were sensors and alarms. What the new design captured is a subjective truth: \"something is an alert condition because in this environment, we believe it should be an alert condition.\""
+      },
+      "date": 1650978594943
+    },
+    {
+      "type": "edit",
+      "id": "d88ac1d9c75ba70b",
+      "item": {
+        "type": "paragraph",
+        "id": "d88ac1d9c75ba70b",
+        "text": "In Design and Reality, the authors highlight the point that the original design for their software had accurately reflected to things in the world. There were sensors and alarms. What the new design captured is a subjective truth: \"something is an alert condition because in this environment, we believe it should be an alert condition.\" Moreover, the new design opened up new conversations with the domain experts. \"What other alert conditions could exist? What risks aren't we mitigating yet? How should we react?\""
+      },
+      "date": 1650978709477
+    },
+    {
+      "type": "add",
+      "id": "a062e39188a27fac",
+      "item": {
+        "type": "paragraph",
+        "id": "a062e39188a27fac",
+        "text": "In the Story of Advancers, the insight uncovered to untangle the code fell at the boundary of expertise of traders and the expectations of tax collectors. Even the tax experts didn't know how to express the difference in their expectations. Each domain of expertise could see these only from their own point of view and only the software developers were confronted with reconciling the differences."
+      },
+      "after": "d88ac1d9c75ba70b",
+      "date": 1650978991740
+    },
+    {
+      "type": "edit",
+      "id": "a062e39188a27fac",
+      "item": {
+        "type": "paragraph",
+        "id": "a062e39188a27fac",
+        "text": "In the Story of Advancers, the insight uncovered to untangle the code fell at the boundary of expertise of traders and the expectations of tax collectors. Even the tax experts didn't know how to express the difference in their expectations. Each domain of expertise could see these only from their own point of view and only the software developers were confronted with discovering and reconciling the differences in the domains."
+      },
+      "date": 1651000485139
+    },
+    {
+      "type": "edit",
+      "id": "cc041c4852f20089",
+      "item": {
+        "type": "paragraph",
+        "id": "cc041c4852f20089",
+        "text": "Expertise is invisible. This thread weaves through all three stories. All three stories also pivot around key insights that completely changed the problem space. The combination of expertise and insight bring us directly to Gary Klein."
+      },
+      "date": 1651001114621
+    },
+    {
+      "type": "add",
+      "id": "72c7ace3757e192a",
+      "item": {
+        "type": "paragraph",
+        "id": "72c7ace3757e192a",
+        "text": "Two insights jump out of Six Levels Down. It can be hard to even know when expertise is missing—partly because expertise is invisible. One insight was when the founders realized there was a more important business to get into to cope with medical billing. The other key insight is in the title of that episode: the expertise you need is deeply embedded in the org chart and therefore also hard to find."
+      },
+      "after": "a062e39188a27fac",
+      "date": 1651001273589
+    },
+    {
+      "type": "add",
+      "id": "3c9470865af98a8d",
+      "item": {
+        "type": "factory",
+        "id": "3c9470865af98a8d",
+        "text": "TODO: "
+      },
+      "after": "72c7ace3757e192a",
+      "date": 1651001304720
+    },
+    {
+      "type": "edit",
+      "id": "3c9470865af98a8d",
+      "item": {
+        "type": "markdown",
+        "id": "3c9470865af98a8d",
+        "text": "- [ ] write a page about Gary Klein, Generating Insight, and Mental Models. "
+      },
+      "date": 1651001345718
+    },
+    {
+      "type": "edit",
+      "id": "3c9470865af98a8d",
+      "item": {
+        "type": "markdown",
+        "id": "3c9470865af98a8d",
+        "text": "- [ ] write a page about Gary Klein, Generating Insight, and Mental Models. See different kinds of insight [https://www.psychologytoday.com/us/blog/seeing-what-others-dont/201306/the-different-forms-insight article]. See different dimensions of mental models [ article] "
+      },
+      "date": 1651001416560
+    },
+    {
+      "type": "edit",
+      "id": "3c9470865af98a8d",
+      "item": {
+        "type": "markdown",
+        "id": "3c9470865af98a8d",
+        "text": "- [ ] write a page about Gary Klein, Generating Insight, and Mental Models. See different kinds of insight [https://www.psychologytoday.com/us/blog/seeing-what-others-dont/201306/the-different-forms-insight article]. See different dimensions of mental models [https://www.psychologytoday.com/us/blog/seeing-what-others-dont/202101/the-mental-model-matrix article] "
+      },
+      "date": 1651001433070
     }
   ]
 }
