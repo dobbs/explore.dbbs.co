@@ -22,9 +22,9 @@
       "text": "The graph of the whole language, on the left in the image above, is the least interesting graph. It shows the language from an omniscient point of view and looses any sense of context."
     },
     {
-      "id": "24ed0000",
       "type": "paragraph",
-      "text": "By contrast, the sub-graph, shown on the right, is drawn from a local point of view and offers more perceptual cues to build fluency in the pattern language. A reader wandering reflectively through the wiki of CHECKS patterns will develop fluency in the language better than reading the patterns in linear print form."
+      "id": "a0a999297053fbb0",
+      "text": "By contrast, the sub-graph, shown on the right, is drawn from a local point of view and is looking around the neighboring patterns. The difference in display gives us more perceptual cues about the relationships. Browsing around the pattern language lets us see each pattern in its own context and thereby build deeper fluency with the pattern language, especially compared to reading the patterns in linear print form."
     },
     {
       "id": "76cab000",
@@ -40,6 +40,11 @@
       "id": "3622e000",
       "type": "paragraph",
       "text": "The Miller Columns in federated wiki's interface lend themselves to holding local context as the reader browses a hypermedia document. These graphs of the local context can offer a glimpse into the wider context than what's visible in the three columns. It is a better tool for constructing understanding of the abstraction of a pattern language."
+    },
+    {
+      "type": "paragraph",
+      "id": "1dc95c5d47857355",
+      "text": "We come to a better understanding of a pattern language with a little wandering around. Merely reading it in traditional linear fashion, start to finish, cannot build the same fluency as meandering reflection."
     },
     {
       "type": "pagefold",
@@ -71,6 +76,14 @@
       "type": "paragraph",
       "id": "4ce1c9b43a217374",
       "text": "See also the older and somewhat faulty transcription to html. [http://c2.com/ppr/checks.html webpage]"
+    },
+    {
+      "type": "reference",
+      "id": "600373354c4bd3f6",
+      "text": "Bottom of this page has the circo layout of the full pattern language in the omniscient point of view.",
+      "site": "eric.dojo.fed.wiki",
+      "slug": "graphs-of-checks",
+      "title": "Graphs of CHECKS"
     },
     {
       "type": "pagefold",
@@ -471,6 +484,80 @@
         "aa72f6de6f348199"
       ],
       "date": 1651452950359
+    },
+    {
+      "id": "a0a999297053fbb0",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "a0a999297053fbb0",
+        "text": "By contrast the diagram at the bottom of Visible Implication has a local point of view and is looking around the neighboring patterns. The difference in display gives us more perceptual cues about the relationships. Browsing around the pattern language lets us see each pattern in its own context and thereby build deeper fluency with the pattern language."
+      },
+      "after": "24ed0000",
+      "date": 1651455185256
+    },
+    {
+      "type": "edit",
+      "id": "a0a999297053fbb0",
+      "item": {
+        "type": "paragraph",
+        "id": "a0a999297053fbb0",
+        "text": "By contrast, the sub-graph, shown on the right, is drawn from a local point of view and is looking around the neighboring patterns. The difference in display gives us more perceptual cues about the relationships. Browsing around the pattern language lets us see each pattern in its own context and thereby build deeper fluency with the pattern language, especially compared to reading the patterns in linear print form."
+      },
+      "date": 1651455257695
+    },
+    {
+      "type": "remove",
+      "id": "24ed0000",
+      "date": 1651455260108
+    },
+    {
+      "id": "1dc95c5d47857355",
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "1dc95c5d47857355",
+        "text": "We come to a better understanding of a pattern language with a little wandering around. Merely reading it in traditional linear fashion, start to finish, cannot build the same fluency as meandering reflection."
+      },
+      "after": "3622e000",
+      "date": 1651455281036
+    },
+    {
+      "type": "add",
+      "id": "600373354c4bd3f6",
+      "item": {
+        "type": "factory",
+        "id": "600373354c4bd3f6",
+        "text": "..."
+      },
+      "after": "4ce1c9b43a217374",
+      "date": 1651455296787
+    },
+    {
+      "type": "edit",
+      "id": "600373354c4bd3f6",
+      "item": {
+        "type": "reference",
+        "id": "600373354c4bd3f6",
+        "text": "We were getting our head around the CHECKS pattern language. Used a LINEUP diagram to generate some DOT. Then edited it slightly in Edotor where we tried many different layouts. None quite captured what we were feeling while browsing. So we turned to a variation of Thompson's [[Preview Next Diagram]].",
+        "site": "eric.dojo.fed.wiki",
+        "slug": "graphs-of-checks",
+        "title": "Graphs of CHECKS"
+      },
+      "date": 1651455303306
+    },
+    {
+      "type": "edit",
+      "id": "600373354c4bd3f6",
+      "item": {
+        "type": "reference",
+        "id": "600373354c4bd3f6",
+        "text": "Bottom of this page has the circo layout of the full pattern language in the omniscient point of view.",
+        "site": "eric.dojo.fed.wiki",
+        "slug": "graphs-of-checks",
+        "title": "Graphs of CHECKS"
+      },
+      "date": 1651455365355
     }
   ]
 }
